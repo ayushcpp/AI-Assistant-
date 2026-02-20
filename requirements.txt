@@ -1,0 +1,3 @@
+fastrtc
+gradio-client
+requests
