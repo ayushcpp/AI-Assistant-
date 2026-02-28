@@ -1,3 +1,4 @@
 fastrtc
 gradio-client
 requests
+fastrtc[vad, stt, tts]
